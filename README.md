@@ -11,6 +11,9 @@ ALL FEATURES OF THE APP:
 5. Disk Usage (Total, Used, Free and Percentage)
 6. Battety (Current Percentage and Plugged In/ Not-Plugged In)
 
+Thanks to the 'psutil' Python Module for making this app happen. This module allows you to get info and data of components on your system.
+PyPi: https://pypi.org/project/psutil/
+
 App Version: v1.0 (Stable)
 
 Copyright 2023 unResolved Creations. Do not Distribute!
