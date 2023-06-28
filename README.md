@@ -11,7 +11,6 @@ ALL FEATURES OF THE APP:
 5. Disk Usage (Total, Used, Free and Percentage)
 6. Battety (Current Percentage and Plugged In/ Not-Plugged In)
 
-APP INFO:
 App Version: v1.0 (Stable)
 OS: macOS
 
