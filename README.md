@@ -12,6 +12,5 @@ ALL FEATURES OF THE APP:
 6. Battety (Current Percentage and Plugged In/ Not-Plugged In)
 
 App Version: v1.0 (Stable)
-OS: macOS
 
 Copyright 2023 unResolved Creations. Do not Distribute!
